@@ -1,9 +1,19 @@
-﻿<xapCache source="c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\Bin\Debug\StarlighTracker.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="7/12/2012 11:59:48 AM">
-  <file source="c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/12/2012 11:59:48 AM" />
-  <file source="c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\Background.png" archivePath="Background.png" lastWriteTime="7/12/2012 11:59:40 AM" />
-  <file source="c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="7/12/2012 11:59:40 AM" />
-  <file source="c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\obj\Debug\StarlighTracker.dll" archivePath="StarlighTracker.dll" lastWriteTime="7/12/2012 11:59:47 AM" />
-  <file source="C:\Program Files\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="9/15/2011 1:36:26 PM" />
-  <file source="c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="7/12/2012 11:59:40 AM" />
-  <file source="c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/12/2012 11:59:48 AM" />
+﻿<xapCache source="D:\Program Files\GitHub\DayOfCaring\Day-of-Caring\StarlighTracker\StarlighTracker\Bin\Debug\StarlighTracker.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="7/12/2012 3:18:22 PM">
+  <file source="D:\Program Files\GitHub\DayOfCaring\Day-of-Caring\StarlighTracker\StarlighTracker\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/12/2012 3:09:25 PM" />
+  <file source="D:\Program Files\GitHub\DayOfCaring\Day-of-Caring\StarlighTracker\StarlighTracker\Background.png" archivePath="Background.png" lastWriteTime="7/12/2012 3:09:25 PM" />
+  <file source="D:\Program Files\GitHub\DayOfCaring\Day-of-Caring\StarlighTracker\StarlighTracker\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="7/12/2012 3:09:25 PM" />
+  <file source="D:\Program Files\GitHub\DayOfCaring\Day-of-Caring\StarlighTracker\StarlighTracker\obj\Debug\StarlighTracker.dll" archivePath="StarlighTracker.dll" lastWriteTime="7/12/2012 3:18:19 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="9/15/2011 3:36:26 PM" />
+  <file source="d:\Program Files\RadControls for Windows Phone 7 Q2 2012\Binaries\WindowsPhone\Telerik.Windows.BackgroundAgentTools.dll" archivePath="Telerik.Windows.BackgroundAgentTools.dll" lastWriteTime="6/29/2012 2:29:24 PM" />
+  <file source="d:\Program Files\RadControls for Windows Phone 7 Q2 2012\Binaries\WindowsPhone\Telerik.Windows.Behaviors.dll" archivePath="Telerik.Windows.Behaviors.dll" lastWriteTime="6/29/2012 2:29:18 PM" />
+  <file source="d:\Program Files\RadControls for Windows Phone 7 Q2 2012\Binaries\WindowsPhone\Telerik.Windows.Controls.Chart.dll" archivePath="Telerik.Windows.Controls.Chart.dll" lastWriteTime="6/29/2012 2:28:54 PM" />
+  <file source="d:\Program Files\RadControls for Windows Phone 7 Q2 2012\Binaries\WindowsPhone\Telerik.Windows.Controls.Data.dll" archivePath="Telerik.Windows.Controls.Data.dll" lastWriteTime="6/29/2012 2:28:38 PM" />
+  <file source="d:\Program Files\RadControls for Windows Phone 7 Q2 2012\Binaries\WindowsPhone\Telerik.Windows.Controls.DataVisualization.dll" archivePath="Telerik.Windows.Controls.DataVisualization.dll" lastWriteTime="6/29/2012 2:28:48 PM" />
+  <file source="d:\Program Files\RadControls for Windows Phone 7 Q2 2012\Binaries\WindowsPhone\Telerik.Windows.Controls.Input.dll" archivePath="Telerik.Windows.Controls.Input.dll" lastWriteTime="6/29/2012 2:28:20 PM" />
+  <file source="d:\Program Files\RadControls for Windows Phone 7 Q2 2012\Binaries\WindowsPhone\Telerik.Windows.Controls.Primitives.dll" archivePath="Telerik.Windows.Controls.Primitives.dll" lastWriteTime="6/29/2012 2:28:04 PM" />
+  <file source="d:\Program Files\RadControls for Windows Phone 7 Q2 2012\Binaries\WindowsPhone\Telerik.Windows.Core.dll" archivePath="Telerik.Windows.Core.dll" lastWriteTime="6/29/2012 2:27:54 PM" />
+  <file source="d:\Program Files\RadControls for Windows Phone 7 Q2 2012\Binaries\WindowsPhone\Telerik.Windows.Data.dll" archivePath="Telerik.Windows.Data.dll" lastWriteTime="6/29/2012 2:28:32 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="8/17/2011 1:48:22 AM" />
+  <file source="D:\Program Files\GitHub\DayOfCaring\Day-of-Caring\StarlighTracker\StarlighTracker\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="7/12/2012 3:09:26 PM" />
+  <file source="D:\Program Files\GitHub\DayOfCaring\Day-of-Caring\StarlighTracker\StarlighTracker\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/12/2012 3:17:03 PM" />
 </xapCache>
