@@ -33,5 +33,10 @@ namespace StarlighTracker
                 App.ViewModel.LoadData();
             }
         }
+
+        private void ToAboutPage(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/Views/AboutPage.xaml", UriKind.Relative));
+        }
     }
 }
