@@ -1,0 +1,32 @@
+- Track appointments
+- Track health info
+- Calculate and display graphs
+- Notes
+- Medication schedule
+
+Appointments:
+	- Surgery
+	- Clinic
+	- Med Procedures
+	- Check ups
+	
+	Appointment states:
+		- Need to schedule
+		- Unconfirmed
+		- Confirmed
+		- Need to reschedule
+
+Medication Schedule:
+	- Drug
+	- Dose
+	- Prescribed by
+	- Begin/End Dates
+
+User:
+	- Health info
+	- Appointment Schedule
+	- Medication Schedule
+
+Contacts:
+	- Doctor
+	- Emergency
