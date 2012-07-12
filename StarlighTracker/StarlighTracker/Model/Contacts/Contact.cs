@@ -8,14 +8,20 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Shapes;
-using StarlighTracker.Model.HealthInfo;
-using System.Collections.Generic;
 
-namespace StarlighTracker.Model
+namespace StarlighTracker.Model.Contacts
 {
-    public abstract class HealthInformation
+    public interface Contact
     {
-        private List<BloodPressure> userBP;
-        private List<Weight> userWeight;
+        private string name
+        {
+            get;
+            set;
+        }
+        private string phone
+        {
+            get;
+            set;
+        }
     }
 }
