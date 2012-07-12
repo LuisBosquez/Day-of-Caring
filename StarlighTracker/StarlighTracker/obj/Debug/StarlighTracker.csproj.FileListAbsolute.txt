@@ -1,0 +1,15 @@
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\Bin\Debug\ApplicationIcon.png
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\Bin\Debug\Background.png
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\Bin\Debug\StarlighTracker.dll
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\Bin\Debug\StarlighTracker.pdb
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\Bin\Debug\AppManifest.xaml
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\Bin\Debug\StarlighTracker.xap
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\obj\Debug\ResolveAssemblyReference.cache
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\obj\Debug\App.g.i.cs
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\obj\Debug\MainPage.g.i.cs
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\obj\Debug\StarlighTracker.g.resources
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\obj\Debug\StarlighTracker.dll
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\obj\Debug\StarlighTracker.pdb
+c:\users\luis\documents\visual studio 2010\Projects\StarlighTracker\StarlighTracker\obj\Debug\XapCacheFile.xml
