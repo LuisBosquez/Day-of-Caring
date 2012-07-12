@@ -11,32 +11,28 @@ using System.Windows.Shapes;
 
 namespace StarlighTracker.Model.HealthInfo
 {
-    public abstract class BloodPressure
+    private enum WeightUnits
     {
-        private int sys;
-        private int dia;
+        Pound,
+        Kilograms
+    }
+
+    public abstract class Weight
+    {
+        private int weight;
+        private WeightUnits units;
         private DateTime timestamp;
 
-        public BloodPressure(int _sys, int _dia)
+        public Weight(int _weight, WeightUnits _units)
         {
-            sys = _sys;
-            dia = _dia;
+            weight = _weight;
+            units = _units;
             timestamp = DateTime.Today;
         }
 
-        public int getSystolic()
+        public string getWeight()
         {
-            return sys;
-        }
-
-        public int getDyastolic()
-        {
-            return dia;
-        }
-
-        public string getBP()
-        {
-            return (sys + "/" + dia);
+            return (weight + " " + units.ToString());
         }
     }
 }

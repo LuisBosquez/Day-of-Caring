@@ -15,6 +15,6 @@ namespace StarlighTracker.Model
     {
         private static string name;
         private static DateTime birthDate;
-        
+        private static HealthInformation healthInfo;
     }
 }
