@@ -12,6 +12,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
+using StarlighTracker.Implementation;
 
 namespace StarlighTracker
 {
@@ -74,6 +75,15 @@ namespace StarlighTracker
                 // and consume battery power when the user is not using the phone.
                 PhoneApplicationService.Current.UserIdleDetectionMode = IdleDetectionMode.Disabled;
             }
+
+            using (DatabaseContext db = new DatabaseContext(DatabaseContext.DBConnectionString))
+            {
+                if (db.DatabaseExists() == false)
+                {
+                    db.CreateDatabase();
+                }
+            }
+
         }
 
         // Code to execute when the application is launching (eg, from Start)
